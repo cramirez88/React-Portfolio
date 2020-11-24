@@ -7,7 +7,7 @@
     "email": "christian.r0602@gmail.com",
     "phone": "331-980-6375",
     "address": {
-      "street": "Courtyard Ct",
+      "street": " 2443 Courtyard Ct",
       "city": "Aurora",
       "state": "Illinois",
       "zip": "60506"
@@ -93,7 +93,7 @@
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "60%"
       },
       {
         "name": "HTML5",
@@ -133,7 +133,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
+        "text": "Christian has a strong motivation and positive attitude towards the worke he does. His determination combined with his intellect makes him a great candidate for any position he sets his mind to.",
         "user": "June Castro, Process Engineer LaPorte"
       },
       {
