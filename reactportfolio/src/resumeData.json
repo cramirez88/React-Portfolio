@@ -32,21 +32,21 @@
     "education": [
       {
         "school": "Northwestern University",
-        "image": "northwestern.jpeg",
+        "image": "/portfolio/northwestern.jpeg",
         "degree": "Full Stack Web Development",
         "graduated": "December 2020",
         "description": ""
       },
       {
         "school": "Loyola University Chicago",
-        "image": "loyola.jpeg",
+        "image": "/portfolio/loyola.jpeg",
         "degree": "B.S in Biology",
         "graduated": "May 2019",
         "description": ""
       },
       {
         "school": "West Aurora High School",
-        "image": "westhigh.jpeg",
+        "image": "/portfolio/westhigh.jpeg",
         "degree": "High School Diploma",
         "graduated": "May 2015",
         "description": ""
@@ -133,11 +133,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Christian has a strong motivation and positive attitude towards the worke he does. His determination combined with his intellect makes him a great candidate for any position he sets his mind to.",
+        "text": "Christian has a strong motivation and positive attitude towards the work he does. His determination combined with his intellect makes him a great candidate for any position he sets his mind to.",
         "user": "June Castro, Process Engineer LaPorte"
       },
       {
-        "text": "",
+        "text": "Christian strives for academic excellence. He has invested so much in an uncharted area of leadership in TKE by becoming the backbone of our philanthropy. Christian demonstrates commitment to Loyola, his friends and family, his surroundings before himself by volunteering in the community and giving back to the rest of us. ",
         "user": "Peter Cabaj, Surgical Pathology Technologist, Northwestern Memorial Hospital"
       }
     ]
