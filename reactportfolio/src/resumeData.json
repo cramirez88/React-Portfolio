@@ -7,7 +7,7 @@
     "email": "christian.r0602@gmail.com",
     "phone": "331-980-6375",
     "address": {
-      "street": " 2443 Courtyard Ct",
+      "street": "",
       "city": "Aurora",
       "state": "Illinois",
       "zip": "60506"
@@ -40,7 +40,7 @@
       {
         "school": "Loyola University Chicago",
         "image": "/portfolio/loyola.jpeg",
-        "degree": "B.S in Biochemistry",
+        "degree": "B.S in Biology",
         "graduated": "May 2019",
         "description": ""
       },
@@ -135,6 +135,10 @@
       {
         "text": "Christian has a strong motivation and positive attitude towards the work he does. His determination combined with his intellect makes him a great candidate for any position he sets his mind to.",
         "user": "June Castro, Process Engineer LaPorte"
+      }, 
+      {
+        "text": "Watching Christian put the work and effort into his job is striking because he works efficiently and is always determined. His working habit, along with his previous experiences, are what make him stand out.",
+        "user": "Peter Cabaj, Surgical Pathology Technologist, Northwestern Memorial Hospital"
       }
       
     ]
