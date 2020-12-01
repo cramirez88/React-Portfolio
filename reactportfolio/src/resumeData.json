@@ -32,21 +32,21 @@
     "education": [
       {
         "school": "Northwestern University",
-        "image": "/portfolio/northwestern.jpeg",
+        "image": "/images/portfolio/northwestern.jpeg",
         "degree": "Full Stack Web Development",
         "graduated": "December 2020",
         "description": ""
       },
       {
         "school": "Loyola University Chicago",
-        "image": "/portfolio/loyola.jpeg",
+        "image": "/images/portfolio/loyola.jpeg",
         "degree": "B.S in Biology",
         "graduated": "May 2019",
         "description": ""
       },
       {
         "school": "West Aurora High School",
-        "image": "/portfolio/westhigh.jpeg",
+        "image": "/images/portfolio/westhigh.jpeg",
         "degree": "High School Diploma",
         "graduated": "May 2015",
         "description": ""
@@ -55,7 +55,7 @@
     "work": [
       {
         "company": "CMC Materials",
-        "image": "cmc.jpeg",
+        "image": "/images/portfolio/cmc.jpeg",
         "title": "Quality Lab Technician ",
         "years": "July 2019-October 2020",
         "description": [
